@@ -52,7 +52,7 @@ global.nameown = 'Okta'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta', 'true']
+  ['6283872529799', 'Okta', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -130,7 +130,7 @@ global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 global.nameowner = 'Okta'
 global.umurowner = '16'
 global.asalowner = 'Indonesia'
-global.nomorowner = 'wa.me/6285731947500'
+global.nomorowner = 'wa.me/6283872529799'
 global.pacarowner = 'Chaca'
 
 /*============== TEXT ==============*/
